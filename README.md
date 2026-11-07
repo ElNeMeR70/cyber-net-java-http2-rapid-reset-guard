@@ -1,0 +1,22 @@
+# 🛡️ `cyber-net-java-http2-rapid-reset-guard`
+
+> **Zero-Trust Network & eBPF Packet Defense** — Sovereign **Java 21** Cybersecurity & Protection Engine (`http2-rapid-reset-guard`).
+> Standards & Coverage: **`CWE-400 / CWE-295 / RFC-8446 / RFC-9000`**
+
+---
+
+## 🔍 Security Capabilities
+- **Engine:** `cyber-net-java-http2-rapid-reset-guard` (`cyber-sec-1000`)
+- **Category:** Zero-Trust Network & eBPF Packet Defense
+- **Standards:** `CWE-400 / CWE-295 / RFC-8446 / RFC-9000`
+- **Defense & Mitigation:** Enforce XDP eBPF rate-limiting, mTLS SPIFFE/SPIRE identity verification, and strict RPKI ROV.
+- **Zero Dependencies:** 100% Standard Library + Shannon Entropy & HMAC-SHA256 Attestation.
+
+## 🚀 Usage
+```bash
+git clone https://github.com/ElNeMeR70/cyber-net-java-http2-rapid-reset-guard.git
+cd cyber-net-java-http2-rapid-reset-guard
+```
+
+## 📄 License
+MIT © [Eng. Mahmoud Bek ElNemer (`@ElNeMeR70`)](https://github.com/ElNeMeR70)
